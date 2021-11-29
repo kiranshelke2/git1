@@ -5,7 +5,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import util.TestBase;
-
 public class loginobj extends TestBase{
 	
 	//loginobj reflogin= new loginobj();
