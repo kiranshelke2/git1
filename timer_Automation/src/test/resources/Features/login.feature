@@ -1,7 +1,6 @@
 #Author:- Kiran Shelke
 #Date :-26/11/2021
 #Description :-Test
-
 Feature: feature to test timer functionality
 
   Scenario: Check timer begins and counted successfully
