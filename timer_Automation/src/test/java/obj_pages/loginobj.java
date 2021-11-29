@@ -13,6 +13,7 @@ public class loginobj extends TestBase{
 	@FindBy(xpath="//input[@id='EggTimer-start-time-input-text']")
 	public WebElement input_timer;
 	
+	
 	//Initializing the page object
 	public  loginobj() {
 		PageFactory.initElements(driver, this);
