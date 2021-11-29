@@ -68,7 +68,7 @@ public class login extends loginobj  {
 		login reflogin= new login();
 		
 		Thread.sleep(4000);
-		reflogin.input_timer.sendKeys("45");
+		reflogin.input_timer.sendKeys("25");
 		Thread.sleep(4000);
 
 	}
